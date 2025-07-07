@@ -1,0 +1,11 @@
+table{
+    width: 100%;
+}
+td, th {
+  text-align: center;
+  padding: 8px;
+}
+.content-card{
+    display: flex;
+    align-items: center;
+}
